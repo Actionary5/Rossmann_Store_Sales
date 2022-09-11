@@ -1,8 +1,11 @@
 # Machine Learning Project to Forecast Rossmann Store Sales
 
-Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
+![Image](https://images.unsplash.com/photo-1540200049848-d9813ea0e120?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
-In this machine learning project, I worked on forecasting 6 weeks of daily sales for 1,115 stores located across Germany. Reliable sales forecasts enable store managers to create effective staff schedules that increase productivity and motivation. By helping Rossmann create a robust prediction model, it will help store managers stay focused on what’s most important to them: their customers and their teams! 
+
+In seven European nations, Rossmann runs more than 3,000 pharmacies. Rossmann store managers are currently required to forecast their daily sales up to six weeks in advance. Numerous factors, such as marketing, rivalry, state and federal holidays, seasonality, and location, affect store sales. The accuracy of the results can be highly variable because thousands of different managers are making sales predictions based on their own situations.
+
+In this machine learning experiment, I forecasted daily sales for 1115 stores spread around Germany for the next six weeks. Store managers may develop efficient staff schedules that boost productivity and motivation by using accurate sales estimates. Store managers will be able to concentrate on what matters most to them—their clients and teams—by aiding Rossmann in developing a reliable prediction model.
 
 
 ![Screenshot](https://github.com/Actionary5/Rossmann_Store_Sales/blob/master/download.png)
